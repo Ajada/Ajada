@@ -14,12 +14,13 @@
   <img align="center" alt="Ajada-node" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Ajada-npm" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Ajada-PHP" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Ajada-Laravel" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> 
+  <img align="center" alt="Ajada-Laravel" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" style="padding:5px; left:100%" alt="developer.gif" width="300" src="https://wolftechti.com.br/images/images/developer.gif" /> <br>
   <img align="center" alt="Ajada-Composer" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   <img align="center" alt="Ajada-HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ajada-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ajada-Jquery" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-  <img align="center" style="padding:5px; left:100%" alt="developer.gif" width="300" src="https://wolftechti.com.br/images/images/developer.gif" /> 
+  
 </div>
   
   ##

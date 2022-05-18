@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Ajada">
   <img height="180em" left="0" src="https://github-readme-stats.vercel.app/api?username=Ajada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajada&layout=compact&langs_count=1&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajada&layout=compact&langs_count=5&theme=dark"/>
 </div> 
  
 <div style="display: inline_block"><br> 

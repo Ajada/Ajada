@@ -29,6 +29,6 @@
   <a href = "mailto:gonsalezajada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-ajada-724497204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/dev3-egos/dev3-egos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ajada/Ajada/blob/output/github-contribution-grid-snake.svg)
 
  </div>

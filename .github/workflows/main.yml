@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Update data README
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */5 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
